@@ -1,4 +1,4 @@
-# RECCOMMENDATION-SYSTEM-PIPELINE-FOR-ASSIGNING-ALERT-CODE-FOR-NEW-TRANSACTION 
+# RECOMMENDATION-SYSTEM-PIPELINE-FOR-ASSIGNING-ALERT-CODE-FOR-NEW-TRANSACTION 
 Recommendation System
 
 This repository provides a recommendation system pipeline designed to assign alert codes to new transactions using cosine similarity. The pipeline leverages the power of cosine similarity to measure the similarity between two datasets: the alerts dataset and the transaction dataset. By training the cosine algorithm on the alerts dataset, it can effectively identify patterns and similarities between historical alerts and new transactions.

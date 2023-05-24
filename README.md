@@ -22,7 +22,7 @@ Customizability: The recommendation system pipeline can be customized and adapte
 Getting Started
 To get started with the recommendation system pipeline using cosine similarity, follow the instructions below:
 
-Clone the Repository: Clone this repository to your local machine using the following command: A
+Clone the Repository: Clone this repository to your local machine using the following command:
 
 bash
 Copy code
